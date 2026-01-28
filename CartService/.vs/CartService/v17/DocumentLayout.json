@@ -1,42 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\real estate property listing and management system\\cartservice\\cartservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\real estate property listing and management system\\cartservice\\cartservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\real estate property listing and management system\\cartservice\\cartservice\\data\\cartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\data\\cartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\real estate property listing and management system\\cartservice\\cartservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\real estate property listing and management system\\cartservice\\cartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\real estate property listing and management system\\cartservice\\cartservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\real estate property listing and management system\\cartservice\\cartservice\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\data\\cartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\data\\cartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\real estate property listing and management system\\cartservice\\cartservice\\models\\addtocartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\models\\addtocartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\models\\addtocartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Migrations\\20260121111656_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CartService\\Migrations\\20260121111656_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\cartservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\cartservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|c:\\users\\hp\\desktop\\clone\\property-connect\\cartservice\\cartservice\\migrations\\20260121111656_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CD4CFC-61F6-42B2-A50B-BEA0233C1904}|CartService\\CartService.csproj|solutionrelative:cartservice\\migrations\\20260121111656_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,82 +62,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "CartService\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "CartService\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T12:51:49.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "CartService\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\WeatherForecast.cs",
-              "RelativeToolTip": "CartService\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T12:50:58.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddToCartRequest.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Models\\AddToCartRequest.cs",
-              "RelativeDocumentMoniker": "CartService\\Models\\AddToCartRequest.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Models\\AddToCartRequest.cs",
-              "RelativeToolTip": "CartService\\Models\\AddToCartRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T11:26:12.243Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "CartService\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Controllers\\CartController.cs",
               "RelativeToolTip": "CartService\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAFEAAACQmZmZmZkwwGMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T11:25:31.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260121111656_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Migrations\\20260121111656_InitialCreate.cs",
-              "RelativeDocumentMoniker": "CartService\\Migrations\\20260121111656_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Migrations\\20260121111656_InitialCreate.cs",
-              "RelativeToolTip": "CartService\\Migrations\\20260121111656_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "CartService\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Models\\Cart.cs",
+              "RelativeToolTip": "CartService\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T11:16:57.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T11:12:54.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "CartService\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Models\\CartItem.cs",
+              "RelativeToolTip": "CartService\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:13:32.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Data\\CartDbContext.cs",
+              "RelativeDocumentMoniker": "CartService\\Data\\CartDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Data\\CartDbContext.cs",
+              "RelativeToolTip": "CartService\\Data\\CartDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:14:51.57Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\DTOs\\CartDto.cs",
+              "RelativeDocumentMoniker": "CartService\\DTOs\\CartDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\DTOs\\CartDto.cs",
+              "RelativeToolTip": "CartService\\DTOs\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:38:59.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddToCartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Models\\AddToCartRequest.cs",
+              "RelativeDocumentMoniker": "CartService\\Models\\AddToCartRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Models\\AddToCartRequest.cs",
+              "RelativeToolTip": "CartService\\Models\\AddToCartRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:26:12.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Program.cs",
               "RelativeDocumentMoniker": "CartService\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Program.cs",
               "RelativeToolTip": "CartService\\Program.cs",
-              "ViewState": "AgIAABMAAABAMzMzMzMrwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T11:15:09.622Z",
               "EditorCaption": ""
@@ -129,41 +153,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CartDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Data\\CartDbContext.cs",
-              "RelativeDocumentMoniker": "CartService\\Data\\CartDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Data\\CartDbContext.cs",
-              "RelativeToolTip": "CartService\\Data\\CartDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T11:14:51.57Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\appsettings.json",
+              "RelativeDocumentMoniker": "CartService\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\appsettings.json",
+              "RelativeToolTip": "CartService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T16:56:48.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "CartService\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Models\\CartItem.cs",
-              "RelativeToolTip": "CartService\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAIAAABAMzMzMzMbwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CartService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CartService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABwAAAAAzczMzMwUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T11:13:32.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T12:51:49.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "CartService\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Real Estate Property Listing and Management System\\CartService\\CartService\\Models\\Cart.cs",
-              "RelativeToolTip": "CartService\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CartService.http",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\CartService.http",
+              "RelativeDocumentMoniker": "CartService\\CartService.http",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\CartService.http",
+              "RelativeToolTip": "CartService\\CartService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-27T18:36:13.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CartService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\WeatherForecast.cs",
+              "RelativeToolTip": "CartService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T11:12:54.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T12:50:58.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CartService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CartService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAABAMzMzMzMrwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T16:56:57.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260121111656_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Migrations\\20260121111656_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CartService\\Migrations\\20260121111656_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\clone\\Property-Connect\\CartService\\CartService\\Migrations\\20260121111656_InitialCreate.cs",
+              "RelativeToolTip": "CartService\\Migrations\\20260121111656_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:16:57.417Z"
             }
           ]
         }

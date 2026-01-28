@@ -13,3 +13,17 @@ target/
 # OS files
 Thumbs.db
 .DS_Store
+
+
+# Node
+node_modules/
+
+# Word temp
+~$*
+
+# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
